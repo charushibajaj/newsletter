@@ -1,0 +1,68 @@
+h3{
+    text-align: center;
+    
+}
+#hello{
+    background-color: lightgrey;
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+#para5,#para3,#para6,#para7,#para8,#para9,#para10,#para11,#para12,#para13{
+    font-size: 20px;
+}
+#div1{
+    display: flex;
+    padding-top: 30px;
+}
+#div4,#div6,#div8,#div10,#div12,#div14,#div16,#div18,#div20{
+    display: flex;
+}
+#div3{
+    padding: 50px;
+}
+#div5{
+    padding-left: 189px;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+#div7{
+    padding-left: 190px;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+#div9{
+    padding-left: 130px;
+    padding-top: 50px;
+    padding-right: 50px;
+    
+}
+#div11{
+    padding-left: 130px;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+#div13,#div15,#div17,#div19,#div21{
+    padding-left: 130px;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+
+#img1{
+    padding-right: 10px;
+    height: 300px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+#para1{
+    font-size: 20px;
+}
+#img2,#img3,#img4,#img5,#img6,#img7,#img8,#img9,#img10{
+    height: 300px;
+    border-radius: 50%;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
